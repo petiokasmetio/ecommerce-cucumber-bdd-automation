@@ -1,0 +1,21 @@
+﻿# Java / Maven build output
+target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Generated reports and logs
+Log/
+logs/
+test-output/
+junit_xml_output/
+json_output/
+surefire-reports/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
